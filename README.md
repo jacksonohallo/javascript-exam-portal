@@ -10,3 +10,7 @@ This is a website that provides Javascript students with test questions and agai
 4)Click on Go live
 5)Initializing of git ,git add files,git commit and git push ,
 6)Publisihing of the project on Github using Github-pages.
+
+## Description
+
+This website has a landing page and a page linked to it. it is basically a logistic company named quick movers.
