@@ -16,3 +16,6 @@ This is a website that provides Javascript students with test questions and agai
 This website has a landing page and a page linked to it. it is basically a logistic company named quick movers.
 ## Live-Link
 https://jacksonohallo.github.io/javascript-exam-portal/
+
+## Technology-Used
+HTML tags and elements -which was used to develope the structure off the pages. CSS styling-which was used to style the User Interface and javascript .
