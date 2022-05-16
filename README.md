@@ -19,3 +19,7 @@ https://jacksonohallo.github.io/javascript-exam-portal/
 
 ## Technology-Used
 HTML tags and elements -which was used to develope the structure off the pages. CSS styling-which was used to style the User Interface and javascript .
+
+## Known-Bugs
+The project works correctly.
+
