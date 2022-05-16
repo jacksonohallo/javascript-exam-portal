@@ -2,9 +2,9 @@ const quizData = [
   {
       question: "Which language determines functionality/behavior of a webpage?",
       a: "Java",
-      b: "C++",
+      b: "C",
       c: "Python",
-      d: "Javascript",
+      d: "javascript",
       correct: "d",
   },
   {
