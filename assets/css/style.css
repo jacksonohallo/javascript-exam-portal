@@ -58,5 +58,5 @@ button:hover{
 }
 button:focus{
   outline: none;
-  background-color:fuchsia;
+  background-color:rgb(231, 95, 231);
 }
